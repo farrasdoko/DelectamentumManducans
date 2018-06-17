@@ -1,0 +1,120 @@
+<resources>
+    <string name="app_name">Delectamentum Manducans</string>
+
+    <string name="action_settings">Settings</string>
+    <!--<string name="action_refresh">Settings</string>-->
+    <!--<string name="action_new">Settings</string>-->
+    <!--<string name="logo_desc">App logo</string>-->
+    <string name="food_name">Rendang</string>
+    <string name="resep_makanan"> Resep Makanan:</string>
+    <string name="cara_makanan"> Cara Membuat Makanan:</string>
+    
+
+    <string name="bahan_ayam_geprek_matah">1/2 kg sayap ayam \n
+1 bh jeruk nipis \n
+Sejumput garam \n
+1 bks Bumbu ayam ungkep kemasan \n
+1 bungkus Tepung bumbu kobe Crispy \n
+Minyak untuk menggoreng \n\n
+Bahan sambal: \n
+7 bh rawit merah \n
+3 bh rawit hijau \n
+5 siung bawang merah \n
+2 siung bawang putih \n
+1 btng serai \n
+3 lmbr daun jeruk \n
+1 bh jeruk limau sedang \n
+secukupnya Penyedap rasa</string>
+    <string name="langkah_ayam_geprek_matah">1 - Pertama2: cuci ayam sampai bersih lalu beri perasan air jernip dan garam diamkan 5 mnt lalu cuci kembali tiriskan. \n
+\n2 - Ungkep ayam dgn bumbu ungkep smp matang dan jangan terlalu empuk. Angkat ayam tiriskan lalu masukkan ketepung bumbu kobe krispi yg sudah dibuat adonan. \n
+\n3 - Goreng ayam dlm minyak panas smp kuning keemasan, angkat. \n
+\n4 - Sambal: iris kasar cabai, bawang merah, bawang putih, serai dan daun jeruk masukkan kedalam mangkuk beri penyedap rasa lalu tuangkan3-4 
+        sdmk minyak panas(boleh bks goreng ayam tadi) lalu kasih perasan jeruk limau.. Geprek Ayam dan beri Sambal diatasnya. Rasanya Mantabb dan segerr sambalny.. Selamat Mencoba.</string>
+
+    <string name="resep_ayam_suwir_sambal_matah"> - Minyak \n
+- 1 batang serai (ambil batang yg putihnya) \n
+- 1 lembar daun jeruk \n
+- 1 buat jeruk nipis \n
+- 15 buah cabe rawit merah \n
+- 1/4 kg dada ayam (direbus dengan garam dan daun salam) \n
+- 5 siung bawang merah \n
+- Garam dan sedikit kaldu bubuk</string>
+    <string name="langkah_ayam_suwir_sambal_matah">1- Goreng sebentar ayam yang sudah direbus dgn garam dan daun salam.. Suwir daging ayam. \n
+\n2- Iris cabe rawit, bawang merah, serai, dan daun jeruk (iris tipis). \n
+\n3- Panaskan 3 sendok minyak, minyaknya betul2 panas. Kemudian masukan bumbu iris dan langsung matikan api. Aduk2 \n
+\n4- Masukan perasan air jeruk nipis dan masukan garam beserta kaldu bubuk. \n
+\n5- Masukan ayam suwir kedalam sambal matah, aduk2 sambil ditekan2 supaya bumbu meresap. Lalu hidangkan. Selamat mencoba 😊</string>
+
+    <string name="langkah_sambal_matah_kecombrang">1- Cuci bersih batang kecombrang, kupas kulit hijau, iris tipis bagian tengah yg putih, rendam dalam air \n
+\n2- Iris tipis bawang merah, cabe rawit, cabe kriting, cabe merah besar, daun jeruk, barang serai. masukkan dalam wadah terpisah dan campur \n
+\n3- Remat2 batang kecombrang saat membilas cucian menggunakan garam, agar tekstur menjadi lebih lembut \n
+\n4- Campur kecombramg dengan irisan bawang merah, remat2 menggunakan tangan dg d lapisi plastik. \n
+\n5- Beri garam dan penyedap, peras limau, campurkan terasi bakar, remat dan campur rata \n
+\n6- Panaskan minyak goreng, siram panas2 dalam sambal \n
+\n7- Enak disajikan dg lauk apa saja sesuai selera</string>
+    <string name="resep_sambal_matah_kecombrang">2 batang - batang kecombrang
+7 buah bawang merah \n
+10 biji Cabe merah kecil \n
+2 cabe merah kriting \n
+1 cabe merah besar \n
+2 batang serai \n
+2 lembar daun jeruk \n
+2 biji jeruk limau \n
+Sedikit terasi bakar \n
+Garam, penyedap \n
+Minyak goreng panas \n
+</string>
+    
+    <string name="resep_sambal_ikan_asin_peda_cabejo">2 ekor Ikan Asin Peda \n
+1 buah Tomat \n
+6 siung Cabai (Cabe) Hijau \n
+10 siung Cabai (Cabe) Rawit Hijau \n
+1 siung Bawang Putih \n
+3 siung Bawang Merah \n
+secukupnya Garam \n
+secukupnya Gula Pasir \n
+secukupnya Penyedap Rasa (MSG) \n
+secukupnya Air \n
+secukupnya Minyak Goreng</string>
+    <string name="langkah_sambal_ikan_asin_peda_cabejo">- Ikan Asin Peda nya di potong-potong menjadi beberapa bagian, kemudian di cuci \n
+\n- lalu iris bawang merah, bawang putih, cabai hijau &amp; cabai rawit, buah tomat di iris (bentuk dadu/sesuai selera) \n
+\n- goreng ikan asin peda, hingga matang lalu angkat \n
+\n- kemudian panaskan minyak goreng, lalu masukan bawang merah dan bawang putih, masukan cabai
+        hijau dan cabai rawit yang telah di iris-iris tadi, tambahkan garam (secukupnya), gula pasir (secukupnya), penyedap rasa (secukupnya) \n
+\n- lalu beri sedikit air (supaya bumbu nya meresap) \n
+\n- kemudian masukan ikan asin peda yang telah di goreng tadi, aduk hingga rata \n
+\n- setelah matang kemudian di angkat lalu tiriskan
+</string>
+
+    <string name="resep_nugget_ayam_handmade">1/2 paha ayam sebelah \n
+secukupnya Tepung panir \n
+4 sdm tepung terigu \n
+secukupnya Lada bubuk \n
+secukupnya Penyedap rasa \n
+Garam</string>
+    <string name="langkah_nugget_ayam_handmade">1- Cuci bersih ayam.. Ambil dagingnya saja / difillet. Di blender.... \n
+\n2- Campurkan semua bahan kecuali tepung panir.. Masukkan ke cetakan, kukus.. \n
+\n3- Tes dg garpu/ tusuk gigi. Jika dirasa sudah matang, angkat &amp; dinginkan.. Lalu masukkan kulkas sebentar ±10menit. \n
+\n4- Potong², celupkan ke adonan tepung (untuk perekat sj) lalu ke tepung panir.. \n
+\n5- Bisa langsung digoreng &amp; sisa nya bisa di masukkan ke freezer buat digoreng nanti²😁😁</string>
+
+    <string name="resep_coto_makassar">1 kg daging sapi has luar (klo sy campur babat, paru dan Hati) \n
+5 batang serai \n
+5 lembar daun salam \n
+5 cm jahe \n
+10 Siung bawang putih \n
+10 Siung bawang merah \n
+8 butir kemiri sangrai \n
+1 sdt ketumbar sangrai \n
+1 sdt jinten \n
+1 sdm garam \n
+1 sdr merica \n
+250 gram kacang tanah goreng haluskan \n
+secukupnya Jahe \n
+secukupnya Lengkuas \n
+secukupnya Serai \n
+3 sdm minyak goreng utk menumis</string>
+    <string name="langkah_coto_makassar">Tumis semua bumbu yg sdh dibaluskan sampai
+        berwarna krem dan wango, masukan daging ug telah diiris-iris sampai bumbu meresap di daging, setelah itumasukan kedalam kaldu
+        rebusan daging sapi. Sajikan panas2 dgn taburan bawang goreng dan irisan daun bawang, jg ketupat, sambal tauco dan jeruk nipis</string>
+</resources>

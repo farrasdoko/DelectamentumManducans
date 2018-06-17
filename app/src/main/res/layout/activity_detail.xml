@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.gmail.farasabiyyu12.delectamentummanducans.DetailActivity">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <ImageView
+            android:id="@+id/photo"
+            android:scaleType="centerCrop"
+            android:layout_width="wrap_content"
+            android:layout_height="180dp"
+            tools:src="@drawable/sambalasinpeda"
+            android:contentDescription="@string/action_settings"/>
+
+        <TextView
+            android:id="@+id/judul"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_above="@+id/reseptemp"
+            android:fontFamily="sans-serif"
+            android:gravity="center"
+            android:textColor="@color/colorAccent"
+            android:textSize="20sp"
+            android:textStyle="bold"
+            tools:text="Judul" />
+        <TextView
+            android:id="@+id/reseptemp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/resep_makanan"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:layout_below="@id/photo"/>
+        <TextView
+            android:id="@+id/bahan"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Bahan Bahan"
+            android:layout_marginTop="5dp"
+            android:layout_below="@id/reseptemp"/>
+        <TextView
+            android:id="@+id/langkahtemp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/cara_makanan"
+            android:layout_marginTop="10dp"
+            android:textStyle="bold"
+            android:layout_below="@id/bahan"/>
+        <TextView
+            android:layout_below="@id/langkahtemp"
+            android:id="@+id/resep"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:text="Resep Masakan"
+            android:layout_marginTop="5dp"/>
+
+    </RelativeLayout>
+
+</ScrollView>
